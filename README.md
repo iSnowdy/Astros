@@ -1,4 +1,4 @@
-# simulacro-examen-astros
+# Ejercicio astros
 
 Define una jerarquía de clases que permita almacenar datos sobre los planetas y satélites (lunas) que forman parte del sistema solar.
 Algunos atributos que necesitaremos almacenar son:
@@ -8,7 +8,6 @@ Algunos atributos que necesitaremos almacenar son:
         • Período de rotación sobre su propio eje.
         • Período de traslación alrededor del cuerpo que orbitan.
         • Distancia media a ese cuerpo.
-        • etc.
         
     Define las clases necesarias conteniendo:
     
