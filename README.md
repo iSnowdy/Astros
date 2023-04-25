@@ -9,7 +9,9 @@ Algunos atributos que necesitaremos almacenar son:
         • Período de traslación alrededor del cuerpo que orbitan.
         • Distancia media a ese cuerpo.
         • etc.
-    Define las clases necesarias conteniendo: 
+        
+    Define las clases necesarias conteniendo:
+    
         • Constructores. 
         • Métodos para recuperar y almacenas atributos.
         • Método para mostrar la información del objeto.
