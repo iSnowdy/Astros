@@ -1,4 +1,4 @@
-# Ejercicio astros
+# Aplicación de POO. Ejercicio astros
 
 Define una jerarquía de clases que permita almacenar datos sobre los planetas y satélites (lunas) que forman parte del sistema solar.
 Algunos atributos que necesitaremos almacenar son:
