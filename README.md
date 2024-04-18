@@ -12,11 +12,11 @@ Algunos atributos que necesitaremos almacenar son:
 Define las clases necesarias y sus métodos:
     
         • Constructores. 
-        • Métodos para recuperar y almacenas atributos.
+        • Métodos para recuperar y almacenar atributos.
         • Método para mostrar la información del objeto.
     
 Define un método, que dado un objeto del sistema solar (planeta o satélite), imprima toda la información que se dispone sobre el mismo (además de su lista de satélites si los tuviera).
 
 Una posible solución sería crear una lista de objetos, insertar los planetas y satélites (directamente mediante código o solicitándolos por pantalla) y luego mostrar un pequeño menú que permita al usuario imprimir la información del astro que elija.
 
-## El diagrama UML está en este mismo repositorio.
+## El diagrama de clases UML está en este mismo repositorio.
